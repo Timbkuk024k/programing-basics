@@ -35,3 +35,13 @@ function getName(name) {
 // getName("geralt")
 
 console.log(getName("tim you wre not a witcher"))
+
+
+// question 2
+
+function hello() {
+    console.log('hello');
+    return 15;
+}
+var result = hello();
+console.log('result is', result);
